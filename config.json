@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchsync",
+        "uuid": 7958343,
+        "checksum": "s141ha"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
